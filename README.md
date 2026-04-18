@@ -71,6 +71,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
+## Screenshots
+
+<img width="1364" height="635" alt="User Dashboard" src="https://github.com/user-attachments/assets/9d765c1c-ce3d-41e3-bae8-0e0701cae089" />
+<img width="1356" height="643" alt="User IoT" src="https://github.com/user-attachments/assets/172cb9bf-c421-40f0-aeb3-db9a29d37114" />
+<img width="1365" height="634" alt="Login form in English" src="https://github.com/user-attachments/assets/d29f9c85-3bad-411c-be4e-f7c3f66149b6" />
+<img width="1365" height="634" alt="Login Form" src="https://github.com/user-attachments/assets/eff88775-6fb0-43cd-a343-14e2a5a931fa" />
+<img width="1365" height="635" alt="Screenshot 2026-04-09 112505" src="https://github.com/user-attachments/assets/146c082e-e1ca-4ed4-bfa6-d2a84a9b0308" />
+<img width="1365" height="628" alt="Stat" src="https://github.com/user-attachments/assets/f1bd3018-531f-4a1a-910a-e93bd1b6840b" />
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> d39f057 (First Commit)
 =======
